@@ -12,5 +12,4 @@ Topics:
 4. Operators (Comparison and Logical)
 5. Strings
 6. Typecasting of variables
-7. Data Structures
-7.1. Lists
+7. Data Structures: Lists
