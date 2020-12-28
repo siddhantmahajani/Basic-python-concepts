@@ -9,6 +9,8 @@ Topics:
 1. Variable declaration and operations
 2. Printing formats
 3. Number operations
-3. Operators (Comparison and Logical)
-4. Strings
-5. Typecasting of variables
+4. Operators (Comparison and Logical)
+5. Strings
+6. Typecasting of variables
+7. Data Structures
+  7.1. Lists
