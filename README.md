@@ -13,3 +13,11 @@ Topics:
 5. Strings
 6. Typecasting of variables
 7. Data Structures: Lists
+8. Data Structures: Dictionary
+9. Data Structures: Tuple
+10. Data Structures: Set
+11. Loop: if
+12. Loop: for
+13. Loop: while
+14. Loop: break and continue
+15. List comprehension
