@@ -27,5 +27,5 @@ Topics:
 20. Data analysis using Pandas
 
 For data analysis using Pandas: 
-1. Please install pandas library using: pip install pandas
+1. Refer to the link to install pandas library for Python: https://pypi.org/project/pandas/
 2. Download the dataset required for the tutorial from https://www.kaggle.com/kairosart/cryptocurrencies
