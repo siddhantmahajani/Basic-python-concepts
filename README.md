@@ -21,3 +21,11 @@ Topics:
 13. Loop: while
 14. Loop: break and continue
 15. List comprehension
+16. Functions
+17. Lambda expressions
+19. Exception Handling
+20. Data analysis using Pandas
+
+For data analysis using Pandas: 
+1. Please install pandas library using: pip install pandas
+2. Download the dataset required for the tutorial from https://www.kaggle.com/kairosart/cryptocurrencies
