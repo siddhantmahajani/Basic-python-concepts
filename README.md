@@ -23,6 +23,7 @@ Topics:
 15. List comprehension
 16. Functions
 17. Lambda expressions
+18. Files
 19. Exception Handling
 20. Data analysis using Pandas
 
